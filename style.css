@@ -1,0 +1,68 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background-color: rgb(243, 243, 226); /* Soft background */
+}
+
+/* Header styling */
+header {
+  background-color: #4CAF50; /* Green background */
+  color: white;
+  padding: 20px;
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+/* Navigation bar styling */
+nav {
+  background-color: #333;
+  padding: 10px;
+  text-align: center;
+}
+
+nav ul {
+  list-style: none;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline;
+  margin: 15px;
+}
+
+nav ul li a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+/* Section styling */
+section {
+  padding: 20px;
+  margin: 10px;
+  background-color: white;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1); /* Soft shadow for attractive look */
+}
+
+/* Footer styling */
+footer {
+  background-color: #ddd;
+  text-align: center;
+  padding: 10px;
+  font-size: 14px;
+}
+
+/* Image styling */
+img {
+  margin-top: 10px;
+  border: 2px solid #ccc;
+  border-radius: 8px;
+  transition: 0.3s ease; /* Smooth hover effect */
+}
+
+/* Hover effect on image */
+img:hover {
+  transform: scale(1.05); /* Zoom effect */
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.3); /* Shadow on hover */
+  border-color: #4CAF50; /* Green border on hover */
+}
