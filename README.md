@@ -2,7 +2,7 @@
 
 📌 **Project Title:** Personal Portfolio Website  
 📚 **Course:** Web Development Basics  
-🎓 **Semester:** 1st Semester  
+🎓 **Semester:** 4th Semester  
 👩‍💻 **Developed by:** Mahnoor
 
 ---
