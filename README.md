@@ -66,4 +66,10 @@ The website includes:
 > 💡 *This portfolio project demonstrates my ability to create clean, well-structured web pages using HTML and CSS, and reflects my growing skills as a developer.*
 
 ---
+## 🔗 Connect with Me
+
+- 🌐 [Portfolio Website](https://mahnoor-cs6767.github.io/My-Portfolio1/)
+- 💼 [LinkedIn Profile](https://www.linkedin.com/in/mahnoor-sajjad-b50054388/)
+- 🐙 [GitHub Profile](https://github.com/mahnoor-cs6767)
+
 
